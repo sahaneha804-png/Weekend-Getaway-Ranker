@@ -1,0 +1,10 @@
+﻿City,State,Distance_km,Rating,Popularity,Source_City
+Digha,West Bengal,185,4,8000,Kolkata
+Darjeeling,West Bengal,615,4.6,9500,Kolkata
+Puri,Odisha,500,4.5,12000,Kolkata
+Agra,Uttar Pradesh,233,4.5,20000,Delhi
+Jaipur,Rajasthan,280,4.6,15000,Delhi
+Amritsar,Punjab,450,4.6,16000,Delhi
+Lonavala,Maharashtra,83,4.6,22000,Mumbai
+Nashik,Maharashtra,165,4.3,13000,Mumbai
+Goa,Goa,590,4.7,30000,Mumbai
